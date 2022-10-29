@@ -20,14 +20,13 @@ const Hero = () => {
         
         <div className="">        
           <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]">
-            Welcome to <br></br>
+            👩‍🚀 DISCOVER 👩‍🚀<br></br>
           </h1>
 
         </div></center>
 
         <center><h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
           <span className="text-gradient">#HLABZ®⚡</span>{" "}
-          <br />Website !
         </h1>
           <br />
           <TweetEmbed id="1573732760711307269" placeholder={'loading'} options={{theme: 'dark' }} />
